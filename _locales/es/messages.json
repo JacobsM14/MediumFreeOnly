@@ -1,0 +1,7 @@
+{
+  "extName": { "message": "Medium Solo Gratis" },
+  "extDescription": { "message": "Oculta las historias solo para miembros en Medium." },
+  "toggleLabel": { "message": "Ocultar historias de pago" },
+  "statusOn": { "message": "Solo se muestran historias gratuitas." },
+  "statusOff": { "message": "Se muestran todas las historias." }
+}

@@ -1,0 +1,7 @@
+{
+  "extName": { "message": "Medium Free Only" },
+  "extDescription": { "message": "Hides member-only stories on Medium." },
+  "toggleLabel": { "message": "Hide paid stories" },
+  "statusOn": { "message": "Only free stories are shown." },
+  "statusOff": { "message": "All stories are shown." }
+}

@@ -1,0 +1,10 @@
+/* styles.css */
+html.solo-gratis article[data-testid="post-preview"]:has(button[aria-label*="Member-only" i]) {
+  display: none !important;
+}
+
+html.solo-gratis div[data-msg-oculta] {
+  display: none !important;
+}
+
+html.solo-gratis { min-height: 150vh; } 
